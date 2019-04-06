@@ -64,8 +64,8 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = '''Reinventing Civic Deliberation 
-    through Virtual Reality'''
+    heading = "Reinventing Civic Deliberation"
+    heading2 = "through Virtual Reality"
     content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btn = true
     btnText="Explore Holopolis"

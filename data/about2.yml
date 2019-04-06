@@ -1,13 +1,18 @@
 enable : true
 image : images/about/about-business-man.jpg
 title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-aboutItem : 
-  - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+description : Deliberation — listening to each other deeply, thinking together and working out something that we can all live with — is magical. Taiwan has been experimenting with bringing citizens and government together in a civic deliberation process for crafting digital legislation. Our process, vTaiwan, brings people directly into governance and helps lawmakers implement decisions with a greater degree of legitimacy. 
+
+description2 :  It is our priority to support all people in participating fully and freely. We have utilized the power of web and AI to provide full remote participation for large groups of participants, and we are now taking the platform to the next level by bringing participants into a shared reality environment. This virtual environment will welcome people with different learning inclinations to participate and contribute freely in the ways they are most comfortable. We believe that by using technology creatively humanity can facilitate deep and fair conversations, form collective consensus, and deliver solution we can all live with.
+
+description3 :  One of the ultimate outcomes from open government initiatives might be a virtual commons where all citizens can log in for public participation. Imagine a virtual world connects the society, information, always updatable and most updated regulations and rules that define how the entire society prefers to interact within, we set up an virtual environment on a server that runs High Fidelity, and simply started jamming and scripting within. We see our project as an adaptable and reproducible prototype for future democracy.
+
+
+# aboutItem : 
+#   - icon : tf-circle-compass
+#     title : SEO Optimized
+#     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
     
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+#   - icon : tf-hotairballoon
+#     title : Easy Customization
+#     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

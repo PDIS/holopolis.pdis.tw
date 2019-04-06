@@ -1,6 +1,6 @@
 enable : true
 heading : About
-headingSpan : Us
+headingSpan : Holopolis
 aboutItem : 
 - icon : tf-tools
   title : We're Creative

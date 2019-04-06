@@ -1,9 +1,10 @@
-baseURL = "http://holopolis2019.pdis.tw/"
+baseURL = "https://holopolis2019.pdis.tw/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Holopolis"
 theme = "meghna-hugo"
 summaryLength = 10
+publishDir = "docs"
 
 [taxonomies]
   author = "author"

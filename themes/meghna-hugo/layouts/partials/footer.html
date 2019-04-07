@@ -64,6 +64,9 @@
 				ga('create', '{{ .Site.Params.googleAnalitycsID }}', 'auto');
 				ga('send', 'pageview');
 		</script>
-
+		{{ "<!-- processing -->" | safeHTML }}
+		<script type="text/javascript" src="{{ "plugins/processing/processing.min.js" | absURL}}"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.6/addons/p5.dom.js"></script>
     </body>
 </html>

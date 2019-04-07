@@ -14,12 +14,12 @@ publishDir = "docs"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Holopolis"
+    name = "About"
     URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Goal"
     URL = "services"
     weight = 3
 

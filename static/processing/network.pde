@@ -7,7 +7,7 @@ float depthOffset;
 
 if ($(window).width() < 600) {
   int bobCount = 100;
-} else if ($(window).width() > 600 && $(window).width() < 1264) {
+} else if ($(window).width() > 600 && $(window).width() < 1903) {
   int bobCount = 150;
 } else {
   int bobCount = 250;
